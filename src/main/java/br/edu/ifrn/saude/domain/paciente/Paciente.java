@@ -32,5 +32,5 @@ public class Paciente {
     private String cpf;
 
     @Column(name = "historico")
-    private String historicoMedico;
+    private String historico;
 }
