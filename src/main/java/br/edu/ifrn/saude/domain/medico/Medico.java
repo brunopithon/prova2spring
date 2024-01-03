@@ -1,4 +1,4 @@
-package br.edu.ifrn.saude.domain.paciente;
+package br.edu.ifrn.saude.domain.medico;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
